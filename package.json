@@ -39,6 +39,7 @@
     "bcrypt"
   ],
   "dependencies": {
-    "bcryptjs": "^2.4.3"
+    "bcryptjs": "^2.4.3",
+    "thomasio-auth-js-common": "^1.0.1"
   }
 }
