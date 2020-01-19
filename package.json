@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thomasio101/thomasio-auth-js-bcrypt/issues"
   },
-  "homepage": "https://github.com/thomasio101/thomasio-auth-js-bcrypt#readme"
+  "homepage": "https://github.com/thomasio101/thomasio-auth-js-bcrypt#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
